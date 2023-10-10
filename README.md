@@ -32,4 +32,6 @@ python pre_training.py --pre_lr 5e-3
 python fine_tuning.py --lr 1e-4 --batch 64 --layers 2
 ```
 
+## Appendix
+
 MB-Soc-Supp.pdf is the **Appendix** of our paper.
